@@ -18,4 +18,3 @@ Description of procedures, functions and triggers - is in the comments in the co
 2. To fill a database `make fill`
 3. To drop a database `make drop`
 4. To create and fill a database `make`
-5. 
